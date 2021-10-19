@@ -1,0 +1,30 @@
+#header {
+    background: #0c65a7;
+    width: 1500px;
+    min-height: 150px;
+}
+#nav{
+    width: 1500px;
+    min-height: 50px;
+    background: #124b78;
+}
+#content {
+    width: 1500px;
+    display: flex;
+
+}
+.main {
+    background: #16a2c5;
+    min-height: 500px;
+    width: 1100px;
+  }
+.aside {
+    background: #5275ad;
+    min-height: 500px;
+    width: 400px;
+    }
+#footer{
+    background: #7bcde3;
+    width: 1500px;
+    min-height: 150px;
+}
