@@ -1,0 +1,23 @@
+#widgets {
+    background: darkslateblue;
+    min-height: 250px;
+    width: 1500px;
+    margin-bottom: 10px;
+}
+#content {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 10px;
+    width: 1500px;
+}
+.widget{
+    min-height: 150px;
+    background: midnightblue;
+    width: 500px;
+}
+#contact {
+    min-height: 350px;
+    width: 1500px;
+    background: rebeccapurple;
+    margin-top: 10px;
+}
